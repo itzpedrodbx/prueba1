@@ -8,6 +8,9 @@ public class Pruebita1Application {
 
     public static void main(String[] args) {
         SpringApplication.run(Pruebita1Application.class, args);
+
+        System.out.println("Prueba de GitHub: cambio realizado desde mi rama propia.");
     }
+
 
 }
